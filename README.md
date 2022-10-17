@@ -1,2 +1,2 @@
-# Firstrepository
+# First
 Знакомство с github
